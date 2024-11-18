@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]!  
+# 👋 Hi, I’m [Ravi Kumar Yadav]!  
 🌟 **Web Developer | Tech Enthusiast | Open Source Contributor**  
 🎯 **Passionate about building awesome web apps!**
 
@@ -14,5 +14,5 @@
 - [E-Commerce App](https://github.com/YourUsername/ecommerce-app)
 
 ## 📫 Let’s Connect  
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
+- 💼 [LinkedIn](www.linkedin.com/in/ravi-kumar-yadav-93b3912b9)  
 - 🐦 [Twitter](https://twitter.com/yourusername)  
